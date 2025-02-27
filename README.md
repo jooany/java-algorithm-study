@@ -32,7 +32,7 @@
 ### 디렉토리 컨벤션
 ```bash
 src/main/java/{개인폴더}/ch{챕터번호}/P{책문제번호}.java 
-ex) src/main/java/주앤/ch7/P7.java 
+ex) src/main/java/leetcode/ch7/P7.java 
 ```
 ### 커밋 컨벤션
 ```bash
